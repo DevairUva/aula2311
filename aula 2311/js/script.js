@@ -1,6 +1,6 @@
 const frm = document.querySelector('form');
 const resp = document.querySelector('h2');
-frm.addEventListener('submit',(e)=>{
+frm.addEventListener("submit",(e)=>{
     const name = frm.name.value;
     const n1 = Number(frm.n1.value.replace(',','.'));
     const n2 = Number(frm.n2.value.replace(',','.'));

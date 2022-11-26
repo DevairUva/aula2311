@@ -1,6 +1,6 @@
 .nome {
     background-image: url('https://img2.gratispng.com/20180126/oyq/kisspng-light-luminous-efficacy-purple-purple-wave-lines-light-effect-5a6acccaa0e386.847302531516948682659.jpg');
-    color:white;
+    /* color:white; */
 }
 
 .input-group{
@@ -15,4 +15,14 @@
 h1{
     color: white;
     margin-bottom: 5%;
+}
+
+.h2_quality {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#botao{
+    margin-left: 11%;
 }

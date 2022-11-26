@@ -13,3 +13,9 @@ frm.addEventListener("submit",(e)=>{
     resp.innerText = `${name}, sua média é: ${media}`;
     e.preventDefault();
 })
+
+objString = J;sessionStorage.stringify(
+    {
+        "cor": "Amarela",
+        "acesa": false
+    });
